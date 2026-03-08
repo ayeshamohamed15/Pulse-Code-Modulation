@@ -1,4 +1,6 @@
-# Pulse-Code-Modulation
+# EXP.NO :3 Pulse-Code-Modulation
+# NAME: AYESHA M
+# REG.NO:212224060034
 # Aim
 Write a simple Python program for the modulation and demodulation of PCM, and DM.
 # Tools required
